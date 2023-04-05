@@ -1,0 +1,190 @@
+[
+    {
+        "name": "The Ruched Air Blouse",
+        "price": 55,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion01.png"
+    },
+    {
+        "name": "The ReNew Anorak",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion03.png"
+    },
+    {
+        "name": "The Linen Square-Neck Jumpsuit",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion08.png"
+    },
+    {
+        "name": "The Linen Square-Neck Jumpsuit",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion07.png"
+    },
+    {
+        "name": "The Luxe Cotton Side-Slit Tee Dress",
+        "price": 50,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion04.png"
+    },
+    {
+        "name": "The Luxe Cotton Side-Slit Tee Dress",
+        "price": 50,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion04.png"
+    },
+    {
+        "name": "The Long Weekend Tee Dress",
+        "price": 40,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion22.png"
+    },
+    {
+        "name": "The Linen Square-Neck Jumpsuit",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion09.png"
+    },
+    {
+        "name": "The Linen Short-Sleeve Jumpsuit",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion06.png"
+    },
+    {
+        "name": "The Modern Utility Jumpsuit",
+        "price": 100,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion05.png"
+    },
+    {
+        "name": "The Soft Cotton Crew",
+        "price": 100,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion10.png"
+    },
+    {
+        "name": "The Modern Trench Coat",
+        "price": 148,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion12.png"
+    },
+    {
+        "name": "The ReNew Windbreaker",
+        "price": 84,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion02.png"
+    },
+    {
+        "name": "The Italian ReWool Overcoat",
+        "price": 298,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion13.png"
+    },
+    {
+        "name": "The ReNew Channeled Liner",
+        "price": 98,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion14.png"
+    },
+    {
+        "name": "The Cashmere Crew",
+        "price": 100,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion15.png"
+    },
+    {
+        "name": "The Cashmere Crew",
+        "price": 105,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion16.png"
+    },
+    {
+        "name": "The Easy Blazer",
+        "price": 128,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion11.png"
+    },
+    {
+        "name": "The Cashmere Crew Cardigan",
+        "price": 140,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion17.png"
+    },
+    {
+        "name": "The Japanese GoWeave Light Square Shirt",
+        "price": 78,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion18.png"
+    },
+    { // peut être pas ***
+        "name": "The Japanese GoWeave Square Shirt",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion19.png"
+    },
+    {
+        "name": "The Ruched Air Blouse",
+        "price": 55,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion20.png"
+    },
+    {
+        "name": "The Luxe Cotton Side-Slit Tee Dress",
+        "price": 50,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion21.png"
+    },
+    {
+        "name": "The Japanese GoWeave Tank Wrap Dress",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion23.png"
+    },
+    {
+        "name": "The Denim Chore Jacket",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion24.png"
+    },
+    {
+        "name": "The Denim Chore Jacket",
+        "price": 88,
+        "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion25.png"
+    }
+]
+
+/*
+INSERT INTO `products` (`id`, `name`, `photo`, `price`, `description`, `type`, `createdAt`, `updatedAt`) VALUES
+(null, 'The Ruched Air Blouse', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion01.png', 55, 'Vêtement magnifique', 'Blouse', '2023-03-27 14:21:43', '2023-03-27 14:21:43'),
+(null, 'The ReNew Anorak', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion03.png', 88, 'Un désign unique et contemporain', 'World', '2023-03-27 14:25:04', '2023-03-27 14:25:04'),
+(null, 'The Linen Square-Neck Jumpsuit', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion08.png', 88, 'Vêtement en lin naturel et chic', 'Jumpsuit', '2023-03-27 14:36:35', '2023-03-27 14:36:35'),
+(null, 'The Linen Square-Neck Jumpsuit', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion07.png', 88, 'Vêtement en lin naturel et chic', 'Jumpsuit', '2023-03-27 14:39:13', '2023-03-27 14:39:13'),
+(null, 'The Luxe Cotton Side-Slit Tee Dress', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion04.png', 50, 'Vêtement en coton naturel, une robe comfortable et élégante', 'Robe', '2023-03-27 14:39:42', '2023-03-27 14:39:42'),
+(null, 'The Luxe Cotton Side-Slit Tee Dress', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion04.png', 50, 'Vêtmeent en coton naturel, une robe comfortable et idéale pour le thé', 'Robe', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Long Weekend Tee Dress', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion09.png', 88, 'Robe comfortable idéale pour les voyages lors de longs weekend', 'Robe', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Linen Square-Neck Jumpsuit', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion22.png', 40, 'Jumpsuit en lin avec un col carré, très comfortable', 'Jumpsuit', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Linen Short-Sleeve Jumpsuit', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion06.png', 88, 'Jumpsuit en lin avec les manches courtes, idéale pour l\'été', 'Jumpsuit', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Modern Utility Jumpsuit', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion05.png', 100, 'Jumpsuit moderne et ultra polyvalent', 'Jumpsuit', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Soft Cotton Crew', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion10.png', 100, 'Vêtement de coton, très comfortable', 'Hipster', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Modern Trench Coat', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion12.png', 148, 'Un manteau chaud pour l\'hiver avec un design moderne et compacte', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The ReNew Windbreaker', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion02.png', 84, 'Un manteau d\'automne', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Italian ReWool Overcoat', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion13.png', 298, 'Un manteau à l\'italienne des années 50', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The ReNew Channeled Liner', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion14.png', 98, 'Vêtement en lin très comfortable', 'Hipster', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Cashmere Crew', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion15.png', 100, 'Vêtement en laine de cashmere, très doux et chaud et un matériel qui respire', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Cashmere Crew', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion16.png', 105, 'Vêtement en laine de cashmere, très doux et chaud et un matériel qui respire', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Easy Blazer', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion11.png', 128, 'Veston convertible pour toutes les occasions', 'Veston', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Cashmere Crew Cardigan', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion17.png', 140, 'Vêtement en cashmere très doux, chaux et un matériel qui respire', 'Manteau', '2023-03-27 14:41:18', '2023-03-27 14:41:18'),
+(null, 'The Japanese GoWeave Light Square Shirt', 'https:`/`/s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion18.png', 78, 'Jupe très élégante à la japonnaise', 'Jupe', '2023-03-27 14:41:18', '2023-03-27 14:41:18');
+
+*/
+
+
+// Continuer à partir d'ici
+{ // peut être pas ***
+    "name": "The Japanese GoWeave Square Shirt",
+    "price": 88,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion19.png"
+},
+{
+    "name": "The Ruched Air Blouse",
+    "price": 55,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion20.png"
+},
+{
+    "name": "The Luxe Cotton Side-Slit Tee Dress",
+    "price": 50,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion21.png"
+},
+{
+    "name": "The Japanese GoWeave Tank Wrap Dress",
+    "price": 88,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion23.png"
+},
+{
+    "name": "The Denim Chore Jacket",
+    "price": 88,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion24.png"
+},
+{
+    "name": "The Denim Chore Jacket",
+    "price": 88,
+    "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/881020/fashion25.png"
+}
